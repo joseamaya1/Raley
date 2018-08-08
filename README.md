@@ -1,6 +1,5 @@
 # RaleySoft Project OTX
 
-[![Build Status](https://travis-ci.org/joseamaya1/Raley.svg?branch=master)](https://travis-ci.org/joseamaya1/Raley)
 [![Build status](https://ci.appveyor.com/api/projects/status/7dr4309rxvh40pyf?svg=true)](https://ci.appveyor.com/project/joseamaya1/Raley)
 # If you need a specialist in the area:
 If you want to add additional systems to the server or I want to correct a serious error, call us so that you can put new systems to your server.
