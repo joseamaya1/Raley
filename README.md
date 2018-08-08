@@ -5,7 +5,7 @@
 # If you need a specialist in the area:
 If you want to add additional systems to the server or I want to correct a serious error, call us so that you can put new systems to your server.
 
-[Whatsapp Contact:] +52 8348521592 or +52 6441526173
+Whatsapp Contact: +52 8348521592 or +52 6441526173
 
 # Downloads
 Executables compilados [AppVeyor builds for Windows](https://ci.appveyor.com/project/ZeroSkywalker/otx-server)
