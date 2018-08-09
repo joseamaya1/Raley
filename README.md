@@ -38,4 +38,5 @@ We are using [Issue Tracker of Github](https://github.com/joseamaya1/Raley/issue
 # Contact:
 Facebook: www.facebook.com/RaleySoft
 Whatsapp: +52 8348521592
+# Or
 Whatsapp: +52 6441526173
