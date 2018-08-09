@@ -7,7 +7,7 @@ If you want to add additional systems to the server or I want to correct a serio
 Whatsapp Contact: +52 8348521592 or +52 6441526173
 
 # Downloads
-Executables compilados [AppVeyor builds for Windows](https://ci.appveyor.com/project/ZeroSkywalker/otx-server)
+Executables compilados [AppVeyor builds for Windows](https://ci.appveyor.com/project/joseamaya1/Raley)
 Store Images [31/01/2018](http://www.mediafire.com/file/985ey1yb3x2fpyf/store31-01-2018.rar)
 
 # Supported Clients
