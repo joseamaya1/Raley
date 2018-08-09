@@ -15,13 +15,6 @@ Store Images [31/01/2018](http://www.mediafire.com/file/985ey1yb3x2fpyf/store31-
 
 [Version 11](https://secure.tibia.com/account/?subtopic=downloadclient)
 
-<!--
-# IpChanger
-Versions 7.x - 10.x: [Compilado](https://static.otland.net/ipchanger.exe)
-
-<!--Versions 11.x: [Compilado](http://www.tibiaking.com/forum/forums/topic/82629-1140-ip-changer/)-->
--->
-
 # Supported Sites
 
 [Gesior by Leonardo Pereira](https://github.com/jlcvp/GesiorMonteiro/archive/master.zip).
